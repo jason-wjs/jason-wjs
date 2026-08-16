@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an incoming M.S. student at Shanghai Jiao Tong University.
+I am a M.S. student at Shanghai Jiao Tong University.
 
 My current work focuses on humanoid robot learning and control.
 
