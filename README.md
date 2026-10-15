@@ -1,7 +1,5 @@
-## Hi there 👋
+### Hi there 👋
 
-I am a M.S. student at Shanghai Jiao Tong University.
+I’m an M.S. student at Shanghai Jiao Tong University. I am interested in the interplay between simulation, learning, and hardware.
 
-My current work focuses on humanoid robot learning and control.
-
-You can reach me at: wujason0818@gmail.com
+You can find my research and projects on my [personal website](https://jason-wjs.github.io/).
